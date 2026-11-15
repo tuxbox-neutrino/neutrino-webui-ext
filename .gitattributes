@@ -1,0 +1,5 @@
+# The signature is over index.json's bytes as they are: git must not
+# change them on the way in or out (line endings, text filters).
+index.json -text -diff
+index.json.sig -text
+archives/** binary
