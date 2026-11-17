@@ -1,0 +1,77 @@
+{
+	"format": 1,
+	"extensions": [
+		{
+			"id": "bouquet-editor",
+			"name": "Bouquet editor",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/bouquet-editor-1.0.0.tar.gz",
+			"sha256": "a8eb88e981abaa13c6fc9c68fb279794325698b9bd3813b800d9d7a4f75b6d58",
+			"description": "Manage bouquets and channels"
+		},
+		{
+			"id": "files",
+			"name": "Files",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/files-1.0.0.tar.gz",
+			"sha256": "6d4ecbb4fcb90c03f2c44da6798d51e9afaa3ce7919b48b4398f9546cb34af3f",
+			"description": "File manager"
+		},
+		{
+			"id": "hallo",
+			"name": "Hello",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/hallo-1.0.0.tar.gz",
+			"sha256": "8f38b1ace09c7f00eeb68f4691819f2252b69983e4aace131e89756e444c6dd4",
+			"description": "An example to start an extension from"
+		},
+		{
+			"id": "lcd4linux",
+			"name": "LCD4Linux",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/lcd4linux-1.0.0.tar.gz",
+			"sha256": "8d3ca1f55728f2da9d27fcf340a87002b224f9d0202e03aff99f06e0346e0364",
+			"description": "The picture of the front display"
+		},
+		{
+			"id": "m3u-converter",
+			"name": "m3u Converter",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/m3u-converter-1.0.0.tar.gz",
+			"sha256": "31d93921737e6938597fb8f33be2fc20dbdf5c7e3bfc97cc2e6274d65d99ba8b",
+			"description": "Playlist to WebTV XML"
+		},
+		{
+			"id": "netfs",
+			"name": "System shares",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/netfs-1.0.0.tar.gz",
+			"sha256": "f2245d3a5d33bdea1bce23aec9dbda5fe340655d3c0014eef8b115a4a6f51ec9",
+			"description": "Mounts at start and for the automounter"
+		},
+		{
+			"id": "screenshot",
+			"name": "Screenshot",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/screenshot-1.0.0.tar.gz",
+			"sha256": "dfdad3680bfff627e6504b098d7084bbf56925dacb7347dc52c7ec0505bbc0d0",
+			"description": "OSD/video capture"
+		},
+		{
+			"id": "services",
+			"name": "Services",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/services-1.0.0.tar.gz",
+			"sha256": "766ffdcd505c341d3f98403c1ec0a132b04b03d0d125a941a7e4db45f382f816",
+			"description": "Start and stop the box's services"
+		},
+		{
+			"id": "sysinfo",
+			"name": "System information",
+			"version": "1.0.0",
+			"url": "https://raw.githubusercontent.com/tuxbox-neutrino/neutrino-webui-ext/HEAD/archives/sysinfo-1.0.0.tar.gz",
+			"sha256": "b2765b4fa4dc77be318b051ad8598f4d0dc3a1611850134e4cd96e584bf7736c",
+			"description": "Hardware and software"
+		}
+	]
+}
